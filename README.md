@@ -1,1 +1,1 @@
-# KnapsackProblem
+# Knapsack Problem
